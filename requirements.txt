@@ -1,0 +1,10 @@
+streamlit
+python-dotenv
+neo4j
+sentence-transformers
+transformers
+torch
+accelerate
+numpy
+pandas
+scikit-learn
